@@ -1,5 +1,5 @@
 
-// IIAF wrapper
+// IIFE - Immediately-Invoked Function Expression
 (function(){
   
   // declare args as global for reference later 
